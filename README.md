@@ -34,6 +34,7 @@ as Git 1.9.1.
   5.  To access via your web browser:
       ```
       http://localhost:8080       
+      ```
 
       Note:  When you visit the site for the first time, you will be prompted to
              create a new password.  This password is for the account: root.  After
